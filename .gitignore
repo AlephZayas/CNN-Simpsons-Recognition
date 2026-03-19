@@ -3,8 +3,10 @@ simpsons/
 simpsons_dataset/
 models/
 __pycache__/
-'Práctica I'/
-'Best Model'/
+Best Model/
+Best_Model/
+*.keras
+simpsons_train_val_test/
 
 # Python
 *.pyc
