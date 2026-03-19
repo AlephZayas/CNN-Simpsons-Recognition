@@ -1,0 +1,18 @@
+# Carpetas a ignorar
+simpsons/
+simpsons_dataset/
+models/
+__pycache__/
+'Práctica I'/
+
+# Python
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Opcional (si tienes modelos pesados)
+*.
+
+# Sistema
+.DS_Store
