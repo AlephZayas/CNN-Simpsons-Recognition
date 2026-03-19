@@ -4,6 +4,7 @@ simpsons_dataset/
 models/
 __pycache__/
 'Práctica I'/
+'Best Model'/
 
 # Python
 *.pyc
